@@ -12,7 +12,7 @@ const Home = () => {
             <h5 className="card-title display-3 fw-bolder mb-0">
               NEW SEASON ARRIVALS
             </h5>
-            <p className="card-text lead fs-2">CHECK OUT ALL THE TRANDS</p>
+            <p className="card-text lead fs-2">CHECK OUT ALL THE TRANDs</p>
           </div>
         </div>
       </div>
