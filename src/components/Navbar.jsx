@@ -8,7 +8,7 @@ const Navbar = () => {
       <nav class="navbar navbar-expand-lg bg-white py-3 shadow-sm">
         <div class="container">
           <Link class="navbar-brand fw-bold fs-4" to="/">
-            X market
+            XXX market
           </Link>
           <button
             class="navbar-toggler"
